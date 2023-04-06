@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/petSmart/static/css/main.7f14f3d8.css",
+    "main.js": "/petSmart/static/js/main.6396b1e9.js",
+    "static/js/787.15ef14df.chunk.js": "/petSmart/static/js/787.15ef14df.chunk.js",
+    "static/media/bannerpic.png": "/petSmart/static/media/bannerpic.9754f2295084b8011fc5.png",
+    "index.html": "/petSmart/index.html",
+    "main.7f14f3d8.css.map": "/petSmart/static/css/main.7f14f3d8.css.map",
+    "main.6396b1e9.js.map": "/petSmart/static/js/main.6396b1e9.js.map",
+    "787.15ef14df.chunk.js.map": "/petSmart/static/js/787.15ef14df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f14f3d8.css",
+    "static/js/main.6396b1e9.js"
+  ]
+}
